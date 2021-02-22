@@ -1,3 +1,5 @@
 [user]
 	name = Felix Nguon
 	email = 55321150+nguonduc@users.noreply.github.com
+[core]
+	editor = nano
