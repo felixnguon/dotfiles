@@ -1,8 +1,10 @@
 echo 'Hello World'
 
-# Set variabes
+# Variabes
+# Add Visual Studio Code (code)
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 
-# Change ZSH Options
+# ZSH Options
 
 # Create Aliases
 alias ls='ls -lAFh'
@@ -23,4 +25,3 @@ function mkcd() {
 }
 # Use ZSH Plugins
 
-# ...Other Stuff
